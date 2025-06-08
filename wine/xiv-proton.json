@@ -1,5 +1,25 @@
 [
     {
+        "name": "XIV-Proton10-4-ntsync",
+        "title": "XIV-Proton 10-4 ntsync",
+        "uri": "https://github.com/rankynbass/proton-xiv/releases/download/XIV-Proton10-4/XIV-Proton10-4-ntsync.tar.xz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
+        "name": "XIV-Proton10-2-ntsync",
+        "title": "XIV-Proton 10-2 ntsync",
+        "uri": "https://github.com/rankynbass/proton-xiv/releases/download/XIV-Proton10-2/XIV-Proton10-2-ntsync.tar.xz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
         "name": "XIV-Proton10-1-ntsync",
         "title": "XIV-Proton 10-1 ntsync",
         "uri": "https://github.com/rankynbass/proton-xiv/releases/download/XIV-Proton10-1/XIV-Proton10-1-ntsync.tar.xz",
