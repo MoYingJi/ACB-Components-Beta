@@ -44,8 +44,8 @@
             "title": "Lutris"
         },
         {
-            "name": "xiv-proton",
-            "title": "XIV-Proton",
+            "name": "xiv-proton-ntsync",
+            "title": "XIV-Proton-NTsync",
             "features": {
                 "bundle": "Proton",
                 "need_dxvk": false,
